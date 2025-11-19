@@ -24,3 +24,42 @@ h4{
 .changeTextCenter {
     text-align: center;
 }
+.coverTitle {
+    width: 100pc;
+}
+.firstTextImage{
+    width: 20pc;
+    display: block;/**/
+    margin-left: auto; /**/
+    margin-right: auto/**/;
+}
+.secondTextImage{
+    width: 20pc;
+    display: block;/**/
+    margin-left: auto; /**/
+    margin-right: auto/**/;
+} 
+.thirdTextImage{
+   width: 20pc;
+    display: block;/**/
+    margin-left: auto; /**/
+    margin-right: auto/**/; 
+}
+.fourthTextImage{
+  width: 20pc;
+    display: block;/**/
+    margin-left: auto; /**/
+    margin-right: auto/**/;  
+}
+.fifthTextImage{
+    width: 20pc;
+    display: block;/**/
+    margin-left: auto; /**/
+    margin-right: auto/**/;   
+}
+.sixthTextImage{
+   width: 30pc;
+    display: block;/**/
+    margin-left: auto; /**/
+    margin-right: auto/**/;   
+} 
