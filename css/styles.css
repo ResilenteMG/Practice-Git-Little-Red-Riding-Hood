@@ -1,0 +1,26 @@
+body{
+background-color: mediumseagreen;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h4{
+    text-align: right;
+    color: white;
+}
+.changeText{
+    text-align:center 
+}
+.changeTextLeft{
+    text-align: left;
+}
+.changeTextRight{
+    text-align: right;
+}
+.changeTextJustificationOne {
+    text-align: justify;
+}
+.changeTextJustificationTwo {
+    text-align: justify;
+}
+.changeTextCenter {
+    text-align: center;
+}
